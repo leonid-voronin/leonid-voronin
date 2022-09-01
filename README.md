@@ -6,4 +6,5 @@
 
 [Тестирование мобильного приложения Яндекс.Метро и API приложения Яндекс.Прилавок](https://docs.google.com/spreadsheets/d/1BHq_E8ocugxI0s4T2UdX6Gq_RebZ3h_TRHcH5uFbKT4/edit?usp=sharing)
 
+[Тестирование сервиса Яндекс.Самокат (веб, мобильное приложение и API)] (https://docs.google.com/spreadsheets/d/1m8m_PDiM6upOBLTKDQ5_RZK09iVWPvOVDpD9ZQJye24/edit?usp=sharing)
 ---
