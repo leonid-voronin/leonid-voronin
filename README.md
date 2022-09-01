@@ -9,3 +9,4 @@
 [Тестирование веб-приложения Яндекс.Маршруты](https://docs.google.com/spreadsheets/d/1uJcAdWV5I66OV7CiQV1NzSyzqhUCbJ9DPYYOPAJtr9k/edit?usp=sharing)
 
 ---
+[Заведенные баг-репорты](https://drive.google.com/drive/folders/1TCZniaF0KFNJ5YWgTkOywQ74fCl2yduk?usp=sharing)
